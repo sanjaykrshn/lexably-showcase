@@ -8,7 +8,7 @@
   <img src="assets/image1.png" width="130" />
   <img src="assets/image2.png" width="130" />
   <img src="assets/image3.png" width="130" />
-  <img src="assets/image4.png" width="130" />
+  <img src="image4.png" width="130" />
   <img src="assets/image5.png" width="130" />
   <img src="assets/image6.png" width="130" />
 </p>
