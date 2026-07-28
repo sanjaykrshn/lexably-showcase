@@ -1,12 +1,8 @@
-<img src="rounded_app_icon 2.png" width="100" align="left" />
-
-<h1>SAT Vocab & Games: Lexably</h1>
+<h1><img src="rounded_app_icon 2.png" width="50" valign="middle" /> SAT Vocab & Games: Lexably</h1>
 
 <p><strong>Flashcards, Quizzes, SAT Words</strong></p>
 
 <a href="https://apps.apple.com/us/app/sat-vocab-games-lexably/id6755205891"><img src="app-store-badge.svg" width="220" /></a>
-
-<br clear="left"/>
 
 <p align="left">
   <img src="image1.png" width="130" />
