@@ -1,4 +1,4 @@
-<img src="rounded_app_icon 2.png" width="60" align="left" style="margin-right: 12px;" /> 
+<img src="rounded_app_icon 2.png" width="150" align="left" style="margin-right: 12px;" /> 
 # SAT Vocab & Games: Lexably
 
 **Flashcards, Quizzes, SAT Words**
