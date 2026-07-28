@@ -4,17 +4,6 @@
 
 [![Download on the App Store](app-store-badge.svg)](https://apps.apple.com/us/app/sat-vocab-games-lexably/id6755205891)
 
-## Screenshots
-
-<p align="center">
-  <img src="image1.png" width="200" />
-  <img src="image2.png" width="200" />
-  <img src="image3.png" width="200" />
-  <img src="image4.png" width="200" />
-  <img src="image5.png" width="200" />
-  <img src="image6.png" width="200" />
-</p>
-
 ---
 
 Lexably is an all-in-one vocabulary app built to help you learn words faster, remember them longer, and actually use them with confidence. Whether you're prepping for the SAT, sharpening academic writing, or just want to sound more articulate, Lexably blends smart flashcards, engaging games, and an AI tutor into a single learning experience. It's built around how memory actually works, using spaced repetition and active recall instead of flat memorization.
@@ -25,3 +14,13 @@ Beyond test prep, Lexably lets you build your own word lists, save entries to a 
 
 **[View on the App Store →](https://apps.apple.com/us/app/sat-vocab-games-lexably/id6755205891)**
 
+## Screenshots
+
+<p align="center">
+  <img src="image1.png" width="130" />
+  <img src="image2.png" width="130" />
+  <img src="image3.png" width="130" />
+  <img src="image4.png" width="130" />
+  <img src="image5.png" width="130" />
+  <img src="image6.png" width="130" />
+</p>
