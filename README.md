@@ -1,4 +1,4 @@
-<h1><img src="rounded_app_icon 2.png" width="50" valign="middle" /> SAT Vocab & Games: Lexably</h1>
+<h1><img src="rounded_app_icon 2.png" width="100" valign="middle" /> SAT Vocab & Games: Lexably</h1>
 
 <p><strong>Flashcards, Quizzes, SAT Words</strong></p>
 
