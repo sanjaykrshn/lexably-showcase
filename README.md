@@ -1,11 +1,15 @@
-<img src="rounded_app_icon 2.png" width="150" align="left" style="margin-right: 12px;" /> 
-# SAT Vocab & Games: Lexably
+<table>
+<tr>
+<td width="140"><img src="rounded_app_icon 2.png" width="120" /></td>
+<td valign="middle">
+<h1>SAT Vocab & Games: Lexably</h1>
+<p><strong>Flashcards, Quizzes, SAT Words</strong></p>
+<a href="https://apps.apple.com/us/app/sat-vocab-games-lexably/id6755205891"><img src="app-store-badge.svg" width="220" /></a>
+</td>
+</tr>
+</table>
 
-**Flashcards, Quizzes, SAT Words**
-
-[![Download on the App Store](app-store-badge.svg)](https://apps.apple.com/us/app/sat-vocab-games-lexably/id6755205891)
-
-<p align="center">
+<p align="left">
   <img src="image1.png" width="130" />
   <img src="image2.png" width="130" />
   <img src="image3.png" width="130" />
@@ -23,4 +27,3 @@ Flashcards adapt to you: each card comes with clear definitions, real-world exam
 Beyond test prep, Lexably lets you build your own word lists, save entries to a personal Vocabulary Journal, and track progress through study streaks, mastery stats, and completion tracking. It's built for students prepping for standardized tests, English learners, and anyone who wants a stronger, more confident vocabulary.
 
 **[View on the App Store →](https://apps.apple.com/us/app/sat-vocab-games-lexably/id6755205891)**
-
