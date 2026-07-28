@@ -1,16 +1,16 @@
-<h1><img src="rounded_app_icon 2.png" width="100" valign="middle" /> SAT Vocab & Games: Lexably</h1>
+<h1><img src="assets/rounded_app_icon 2.png" width="50" valign="middle" /> SAT Vocab & Games: Lexably</h1>
 
 <p><strong>Flashcards, Quizzes, SAT Words</strong></p>
 
-<a href="https://apps.apple.com/us/app/sat-vocab-games-lexably/id6755205891"><img src="app-store-badge.svg" width="220" /></a>
+<a href="https://apps.apple.com/us/app/sat-vocab-games-lexably/id6755205891"><img src="assets/app-store-badge.svg" width="220" /></a>
 
 <p align="left">
-  <img src="image1.png" width="130" />
-  <img src="image2.png" width="130" />
-  <img src="image3.png" width="130" />
-  <img src="image4.png" width="130" />
-  <img src="image5.png" width="130" />
-  <img src="image6.png" width="130" />
+  <img src="assets/image1.png" width="130" />
+  <img src="assets/image2.png" width="130" />
+  <img src="assets/image3.png" width="130" />
+  <img src="assets/image4.png" width="130" />
+  <img src="assets/image5.png" width="130" />
+  <img src="assets/image6.png" width="130" />
 </p>
 
 ---
